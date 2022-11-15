@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "cardcounter",
+      "type": "com.bill.project.config.GameConfig",
+      "sourceType": "com.bill.project.config.GameConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cardcounter.no-of-decks",
+      "type": "java.lang.Integer",
+      "sourceType": "com.bill.project.config.GameConfig"
+    }
+  ],
+  "hints": []
+}
